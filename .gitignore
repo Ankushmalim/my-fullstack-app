@@ -1,0 +1,12 @@
+# Backend
+user/target/
+user/.idea/
+
+# Frontend
+user-ui/node_modules/
+user-ui/build/
+user-ui/.idea/
+
+# Common
+.env
+.DS_Store
